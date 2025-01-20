@@ -5,6 +5,8 @@ UNIVERSITY:
   	CMT: MATLAB code for "Computer Modelling Techniques" module coursework to solve numerical methods iterative problems
 
   	Coding Revision: work from throughout "Computer Engineering" module to learn and practice coding in C
+	
+	Lab work: Work from "Mechatronics" module using Arduino to experiment with AD converters, Motor encoders and stepper motor algorithms
 
   	Project Code: MATLAB code written to numerically simulate and calculate deflections of soft robotic components, 
   	alongside programs to analyse experimental photos to calculate and plot actual deflections of components
