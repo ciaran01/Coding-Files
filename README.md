@@ -2,16 +2,16 @@ Repository contains various coding practice and work from both university and pe
 
 UNIVERSITY:
 
-  	CMT: MATLAB code for "Computer Modelling Techniques" module coursework to solve numerical methods iterative problems
+-	CMT: MATLAB code for "Computer Modelling Techniques" module coursework to solve numerical methods iterative problems
 
-  	Coding Revision: work from throughout "Computer Engineering" module to learn and practice coding in C
+-	Coding Revision: work from throughout "Computer Engineering" module to learn and practice coding in C
 	
-	Lab work: Work from "Mechatronics" module using Arduino to experiment with AD converters, Motor encoders and stepper motor algorithms
+-	Lab work: Work from "Mechatronics" module using Arduino to experiment with AD converters, Motor encoders and stepper motor algorithms
 
-  	Project Code: MATLAB code written to numerically simulate and calculate deflections of soft robotic components, 
-  	alongside programs to analyse experimental photos to calculate and plot actual deflections of components
+-	Project Code: MATLAB code written to numerically simulate and calculate deflections of soft robotic components, 
+	alongside programs to analyse experimental photos to calculate and plot actual deflections of components
 
-  	Software Project: Code written for software project in "Computer Engineering" module to interface with writing robot or emulator to play tic-tac-toe.
+-	Software Project: Code written for software project in "Computer Engineering" module to interface with writing robot or emulator to play tic-tac-toe.
 
 
 CS50:
